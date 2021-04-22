@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.805bb557.chunk.css",
-    "main.js": "/static/js/main.627b008d.chunk.js",
-    "main.js.map": "/static/js/main.627b008d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.defe0d18.js",
-    "runtime-main.js.map": "/static/js/runtime-main.defe0d18.js.map",
-    "static/css/2.ef9168ec.chunk.css": "/static/css/2.ef9168ec.chunk.css",
-    "static/js/2.133c891f.chunk.js": "/static/js/2.133c891f.chunk.js",
-    "static/js/2.133c891f.chunk.js.map": "/static/js/2.133c891f.chunk.js.map",
-    "static/js/3.342e0fc6.chunk.js": "/static/js/3.342e0fc6.chunk.js",
-    "static/js/3.342e0fc6.chunk.js.map": "/static/js/3.342e0fc6.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.ef9168ec.chunk.css.map": "/static/css/2.ef9168ec.chunk.css.map",
-    "static/css/main.805bb557.chunk.css.map": "/static/css/main.805bb557.chunk.css.map",
-    "static/js/2.133c891f.chunk.js.LICENSE.txt": "/static/js/2.133c891f.chunk.js.LICENSE.txt"
+    "main.css": "/Stalker-Movies/static/css/main.805bb557.chunk.css",
+    "main.js": "/Stalker-Movies/static/js/main.5eb6720b.chunk.js",
+    "main.js.map": "/Stalker-Movies/static/js/main.5eb6720b.chunk.js.map",
+    "runtime-main.js": "/Stalker-Movies/static/js/runtime-main.be9e7fe8.js",
+    "runtime-main.js.map": "/Stalker-Movies/static/js/runtime-main.be9e7fe8.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/Stalker-Movies/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.68805885.chunk.js": "/Stalker-Movies/static/js/2.68805885.chunk.js",
+    "static/js/2.68805885.chunk.js.map": "/Stalker-Movies/static/js/2.68805885.chunk.js.map",
+    "static/js/3.342e0fc6.chunk.js": "/Stalker-Movies/static/js/3.342e0fc6.chunk.js",
+    "static/js/3.342e0fc6.chunk.js.map": "/Stalker-Movies/static/js/3.342e0fc6.chunk.js.map",
+    "index.html": "/Stalker-Movies/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/Stalker-Movies/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.805bb557.chunk.css.map": "/Stalker-Movies/static/css/main.805bb557.chunk.css.map",
+    "static/js/2.68805885.chunk.js.LICENSE.txt": "/Stalker-Movies/static/js/2.68805885.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.defe0d18.js",
+    "static/js/runtime-main.be9e7fe8.js",
     "static/css/2.ef9168ec.chunk.css",
-    "static/js/2.133c891f.chunk.js",
+    "static/js/2.68805885.chunk.js",
     "static/css/main.805bb557.chunk.css",
-    "static/js/main.627b008d.chunk.js"
+    "static/js/main.5eb6720b.chunk.js"
   ]
 }
