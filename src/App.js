@@ -14,7 +14,7 @@ function App() {
     <Router>
       <Navbar SetSearchQuery={SetSearchQuery}/>
       <Switch>
-         <Route path="/" component={Home} exact />
+         <Route path="/Stalker-Movies" component={Home} exact />
          <Route path="/search/:id" exact> <Search Name={searchQuery}/> </Route>
       </Switch>
     </Router>

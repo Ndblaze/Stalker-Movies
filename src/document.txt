@@ -17,4 +17,4 @@ in case you want to add another commit then do
     1. git status
     2. git add .
     3. npm run deploy
-    4. git push -u master
+    4. git push -u origin master
