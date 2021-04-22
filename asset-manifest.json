@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Stalker-Movies/static/css/main.805bb557.chunk.css",
-    "main.js": "/Stalker-Movies/static/js/main.627b008d.chunk.js",
-    "main.js.map": "/Stalker-Movies/static/js/main.627b008d.chunk.js.map",
+    "main.js": "/Stalker-Movies/static/js/main.fb669991.chunk.js",
+    "main.js.map": "/Stalker-Movies/static/js/main.fb669991.chunk.js.map",
     "runtime-main.js": "/Stalker-Movies/static/js/runtime-main.be9e7fe8.js",
     "runtime-main.js.map": "/Stalker-Movies/static/js/runtime-main.be9e7fe8.js.map",
     "static/css/2.ef9168ec.chunk.css": "/Stalker-Movies/static/css/2.ef9168ec.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.68805885.chunk.js",
     "static/css/main.805bb557.chunk.css",
-    "static/js/main.627b008d.chunk.js"
+    "static/js/main.fb669991.chunk.js"
   ]
 }
