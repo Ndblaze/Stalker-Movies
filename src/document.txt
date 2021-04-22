@@ -1,0 +1,20 @@
+
+
+1. you have inastalled bootstrapp for this project and you wan to use the carousel for the section of display
+
+2. you have installed the react styled-components to thsi app
+
+3.  you have installed react-router-dom to this project
+
+4. you have installed react-scrool to this project
+
+5.  you have installed react-icons to this project
+
+
+
+in case you want to add another commit then do
+
+    1. git status
+    2. git add .
+    3. npm run deploy
+    4. git push -u master
